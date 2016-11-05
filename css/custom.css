@@ -7,7 +7,7 @@ body {
 
 }
 .btn {
-background-color: #ffecb3;
+background-color: #78a3ed;
 }
 .dropdown-menu li {
 background-color: #a5c2f3;
@@ -46,7 +46,7 @@ a:hover, a:active {
 }
 
 .row-footer {
-   background-color: #75a3a3;
+   background-color: #94b8b8;
    padding: 25px 25px 25px 25px;
    margin: 10px auto;
 }
